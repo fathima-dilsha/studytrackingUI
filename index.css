@@ -74,7 +74,7 @@ body{
 }
 button {
     color: #4f5491;
-    font: inherit;
+    /* font: inherit; */
     font-size: 1.075em;
     background: none;
     border: none;
